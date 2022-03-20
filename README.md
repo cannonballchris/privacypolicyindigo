@@ -31,3 +31,7 @@ Whenever a channel, guild, user is deleted, it is most likely, the bot removes i
 • Do not send nitro links to the bot as the bot's dms are used by an external api and there is a small 0.001% chance that it might get stolen. Nitro is supposed to be used in your account, not in bot's dms.
 • The bot will never require ADMINISTRATOR PERMISSION to run any kind of command.However, the bot might require the person who is running the command to have ADMINISTRATOR PERMISSION.
 • In case of any emergency, you can use `!links` command to get the bot's support server, socials to contact the owner/staff of the bot.
+
+●▬▬▬▬▬▬▬▬๑۩✰EXTRAS✰۩๑▬▬▬▬▬▬▬▬●
+
+• If you wish to remove your data/wipe it completely/have any other questions regarding your data, kindly contact the `bot owner` as mentioned above/type `!links` to get the support server link and have a word there !
