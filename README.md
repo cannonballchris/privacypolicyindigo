@@ -26,7 +26,7 @@ Whenever a channel, guild, user is deleted, it is most likely, the bot removes i
 
 ●▬▬▬▬▬▬▬▬๑۩✰TIPS✰۩๑▬▬▬▬▬▬▬▬●
 
-• It is always advisable to read the Privacy policy of the mediator between you and the bot. aka Discord. `https://discord.com/privacy`
+• It is always advisable to read the Privacy policy of the mediator between you and the bot. aka Discord. https://discord.com/privacy
 • Never share any personal information to bot in any circumstances. The bot does not ever require any personal information related to you. Any donations made for bot is also in form of cryptocurrency only to provide you a safer and better environment of payments as well.
 • Do not send nitro links to the bot as the bot's dms are used by an external api and there is a small 0.001% chance that it might get stolen. Nitro is supposed to be used in your account, not in bot's dms.
 • The bot will never require ADMINISTRATOR PERMISSION to run any kind of command.However, the bot might require the person who is running the command to have ADMINISTRATOR PERMISSION.
