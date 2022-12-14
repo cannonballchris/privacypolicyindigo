@@ -11,7 +11,7 @@ The `etc` represents the data which has been provided to us by you using any of 
 • Any kind of data in format of text, attachment, command etc. in private_channel (Dm) is also collected.
 
 ✰・ DATA WE STORE
-• We only store `guild_id` , `user_id`, `channel_ids` and any integer format values associated to a guild, role, channel, user. 
+• We **only** store `guild_id` , `user_id`, `channel_ids` and any integer format values associated to a guild, role, channel, user. 
 Here, the "store" represents "saving the data in the database" which can be used by bot to provide you better experience.
 Whenever a channel, guild, user is deleted, it is most likely, the bot removes it from the database as well. 
 
